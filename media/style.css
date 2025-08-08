@@ -1,0 +1,23 @@
+#container {
+	background-color: lightcoral;
+	border: 2px solid darkred;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap-reverse;
+}
+.box {
+	height: 150px;
+	width: 150px;
+	background-color: aquamarine;
+	margin: 5px;
+	border: 2px dotted darkblue;
+}
+
+#box1 {
+	background-color: lightblue;
+}
+
+#box2 {
+	background-color: lightgreen;
+}

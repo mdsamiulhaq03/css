@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#first {
+	background-color: red;
+}
+#second {
+	background-color: green;
+}
+#button {
+	background-color: blueviolet;
+}
+.back_learn {
+	color: rgb(255, 99, 71, 0.5);
+	background-color: rgb(111, 128, 37, 1);
+}
+.box {
+	background-color: rebeccapurple;
+	height: 30px;
+	width: 60px;
+}
+#box1 {
+	background-color: red;
+}
+#box2 {
+	background-color: green;
+}
+#box3 {
+	background-color: blueviolet;
+}
+.icon {
+	background-image: url(https://logos-world.net/wp-content/uploads/2022/05/Daraz-Emblem.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 60px;
+}

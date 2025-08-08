@@ -1,0 +1,55 @@
+.box1 {
+	height: 50px;
+	width: 100px;
+	background-color: rgb(179, 65, 65);
+	text-align: center;
+	text-decoration: underline;
+}
+
+.box2 {
+	height: 50px;
+	width: 100px;
+	background-color: rgb(65, 179, 65);
+	text-align: right;
+	text-decoration: wavy underline;
+}
+
+.box3 {
+	height: 50px;
+	width: 100px;
+	background-color: rgb(65, 65, 179);
+	text-align: left;
+	text-decoration: dotted underline;
+}
+
+#head {
+	text-align: center;
+	text-decoration: line-through;
+}
+#link {
+	text-decoration: none;
+}
+
+#para {
+	line-height: 15px;
+	text-transform: capitalize;
+	font-size: 12px;
+	/* font-weight: 600; */
+	font-style: italic;
+}
+#first {
+	font-family: "Ephesis", cursive;
+}
+.material-symbols-outlined {
+	font-family: "Material Symbols Outlined";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
